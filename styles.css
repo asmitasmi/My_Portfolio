@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main-img img {
+  height: 250px;
+  width: 100%;
+}
+
+.position {
+  text-align: center;
+  margin: 25px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.details h3 {
+  font-size: 25px;
+  margin-left: 15px;
+  font-weight: bold;
+}
+
+.details ul {
+  font-size: 18px;
+  margin-left: 55px;
+  margin-top: 15px;
+}
+
+.details li {
+  margin-bottom: 8px;
+}
+
+
+.main-part {
+  margin: 25px;
+  background-color: rgb(236, 177, 100);
+  padding: 15px;
+  padding-bottom: 35px;
+}
